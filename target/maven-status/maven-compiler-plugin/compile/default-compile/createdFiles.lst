@@ -1,0 +1,6 @@
+gorest\serenity\constants\EndPoints.class
+gorest\serenity\utils\PropertyReader.class
+gorest\serenity\gorestinfo\GoRestSteps.class
+gorest\serenity\constants\Path.class
+gorest\serenity\model\GoRestPojo.class
+gorest\serenity\utils\TestUtils.class
